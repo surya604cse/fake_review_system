@@ -1,4 +1,3 @@
-# fake_review_detection_system
 # Fake Review Detection System
 
 ## Overview
